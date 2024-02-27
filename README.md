@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">CLONE OF TMETRIC WEBSITE</h1>
 <img src="https://github.com/2018115025/tmetric-clone/assets/84760752/1a1e6f7e-bdb3-4c38-a738-11f88598f96c"></img>
 <br>
@@ -39,3 +40,6 @@
 ![about](https://github.com/2018115025/tmetric-clone/assets/84760752/4fbdd79a-2e07-4999-adce-7f44197d0255)
 
 
+=======
+# Tmetric-clone
+>>>>>>> bd384d08d01cd5f9b42c10a216cbadf2c7a9ce3f
